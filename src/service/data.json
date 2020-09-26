@@ -1,0 +1,620 @@
+{
+  "nowPlaying": {
+    "id": 0,
+    "src": "lofi-beats.png",
+    "title": "Loungerie",
+    "artist": "Jorge Milliano",
+    "album": "Dosages",
+    "duration": "3:15",
+    "liked": false,
+    "isPlaying": true
+  },
+  "playlists": [
+    {
+      "id": 0,
+      "src": "lofi-beats.png",
+      "title": "Lo-fi Beats",
+      "description": "Beats to relax and focus.",
+      "artist": "Spotify",
+      "duration": "15h 51min",
+      "liked": true,
+      "songs": [
+        {
+          "id": 0,
+          "title": "Loungerie",
+          "artist": "Jorge Milliano",
+          "liked": false,
+          "explicit": false,
+          "album": "Dosages",
+          "duration": "3:15"
+        },
+        {
+          "id": 1,
+          "title": "Bewoldered",
+          "artist": "Hanz",
+          "liked": false,
+          "explicit": false,
+          "album": "Leaving For Good",
+          "duration": "2:36"
+        },
+        {
+          "id": 2,
+          "title": "Careless",
+          "artist": "Coastal",
+          "liked": false,
+          "explicit": false,
+          "album": "Careless",
+          "duration": "2:40"
+        },
+        {
+          "id": 3,
+          "title": "Hotel",
+          "artist": "Dylan",
+          "liked": false,
+          "explicit": false,
+          "album": "Glazed",
+          "duration": "2:40"
+        },
+        {
+          "id": 4,
+          "title": "i brought her flowers",
+          "artist": "frumhere",
+          "liked": false,
+          "explicit": false,
+          "album": "same time next year",
+          "duration": "2:16"
+        },
+        {
+          "id": 5,
+          "title": "Tokyo",
+          "artist": "Drevm",
+          "liked": false,
+          "explicit": false,
+          "album": "Tokyo",
+          "duration": "2:41"
+        },
+        {
+          "id": 6,
+          "title": "Back to Life",
+          "artist": "Sofasound",
+          "liked": false,
+          "explicit": false,
+          "album": "Back to Life",
+          "duration": "2:15"
+        },
+        {
+          "id": 7,
+          "title": "Lesson on Couting",
+          "artist": "quickly, quickly",
+          "liked": false,
+          "explicit": false,
+          "album": "Lesson on Couting",
+          "duration": "3:02"
+        },
+        {
+          "id": 8,
+          "title": "lost school stuff",
+          "artist": "pucca, Emperose",
+          "liked": false,
+          "explicit": false,
+          "album": "lost school stuff",
+          "duration": "2:22"
+        },
+        {
+          "id": 9,
+          "title": "CHASE",
+          "artist": "twuan",
+          "liked": false,
+          "explicit": false,
+          "album": "STAY HOME",
+          "duration": "2:06"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "src": "moodbooster.png",
+      "title": "Mood Booster",
+      "description": "Get happy with this pick-me-up playlist full of current feel-good songs!",
+      "artist": "Spotify",
+      "duration": "4h",
+      "liked": true,
+      "songs": [
+        {
+          "id": 0,
+          "title": "Dont Start Now",
+          "artist": "Dua Lipa",
+          "liked": true,
+          "explicit": false,
+          "album": "Dont Start Now",
+          "duration": "3:03"
+        },
+        {
+          "id": 1,
+          "title": "Watermelon Sugar",
+          "artist": "Harry Styles",
+          "liked": false,
+          "explicit": false,
+          "album": "Watermelon Sugar",
+          "duration": "2:54"
+        },
+        {
+          "id": 2,
+          "title": "Rain On Me (with Ariana Grande)",
+          "artist": "Lady Gaga, Ariana Grande",
+          "liked": false,
+          "explicit": false,
+          "album": "Rain On Me (with Ariana Grande)",
+          "duration": "2:44"
+        },
+        {
+          "id": 3,
+          "title": "Intentions (feat. Quavo)",
+          "artist": "Justin Bieber, Quavo",
+          "liked": false,
+          "explicit": false,
+          "album": "Changes",
+          "duration": "3:33"
+        },
+        {
+          "id": 4,
+          "title": "Lonely",
+          "artist": "Diplo, Jonas Brothers",
+          "liked": false,
+          "explicit": false,
+          "album": "Lonely",
+          "duration": "2:20"
+        },
+        {
+          "id": 5,
+          "title": "Suplalonely",
+          "artist": "BENEE, Gus Dapperton",
+          "liked": false,
+          "explicit": false,
+          "album": "STELLA & STEVE",
+          "duration": "3:45"
+        },
+        {
+          "id": 6,
+          "title": "Be Kind (with Halsey)",
+          "artist": "Marshmello, Halsey",
+          "liked": false,
+          "explicit": false,
+          "album": "Be Kind (with Halsey)",
+          "duration": "2:53"
+        },
+        {
+          "id": 7,
+          "title": "Ligths Up",
+          "artist": "Harry Styles",
+          "liked": false,
+          "explicit": false,
+          "album": "Ligths Up",
+          "duration": "2:52"
+        },
+        {
+          "id": 8,
+          "title": "Know Your Worth",
+          "artist": "Khalid, Disclosure",
+          "liked": false,
+          "explicit": false,
+          "album": "Know Your Worth",
+          "duration": "3:01"
+        },
+        {
+          "id": 9,
+          "title": "Blinding Ligths",
+          "artist": "The Weeknd",
+          "liked": false,
+          "explicit": false,
+          "album": "After Hours",
+          "duration": "3:20"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "src": "thisistheweekend.png",
+      "title": "This Is The Weeknd",
+      "description": "Check out this collection o The Weeknd's dopest tracks!",
+      "artist": "Spotify",
+      "duration": "",
+      "liked": true,
+      "songs": [
+        {
+          "id": 0,
+          "title": "After Hours",
+          "artist": "The Weeknd",
+          "liked": false,
+          "explicit": false,
+          "album": "After Hours",
+          "duration": "2:06"
+        },
+        {
+          "id": 1,
+          "title": "Watermelon Sugar",
+          "artist": "The Weeknd",
+          "liked": false,
+          "explicit": false,
+          "album": "After Hours",
+          "duration": "2:58"
+        },
+        {
+          "id": 2,
+          "title": "Rain On Me (with Ariana Grande)",
+          "artist": "The Weeknd",
+          "liked": false,
+          "explicit": false,
+          "album": "Rain On Me (with Ariana Grande)",
+          "duration": "3:16"
+        },
+        {
+          "id": 3,
+          "title": "Intentions (feat. Quavo)",
+          "artist": "The Weeknd",
+          "liked": false,
+          "explicit": false,
+          "album": "Intentions (feat. Quavo)",
+          "duration": "2:18"
+        },
+        {
+          "id": 4,
+          "title": "Lonely",
+          "artist": "The Weeknd",
+          "liked": false,
+          "explicit": false,
+          "album": "After Hours",
+          "duration": "3:14"
+        },
+        {
+          "id": 5,
+          "title": "Suplalonely",
+          "artist": "The Weeknd",
+          "liked": false,
+          "explicit": false,
+          "album": "After Hours",
+          "duration": "2:46"
+        },
+        {
+          "id": 6,
+          "title": "Be Kind (with Halsey)",
+          "artist": "The Weeknd",
+          "liked": false,
+          "explicit": false,
+          "album": "Be Kind (with Halsey)",
+          "duration": "3:25"
+        },
+        {
+          "id": 7,
+          "title": "Ligths Up",
+          "artist": "The Weeknd",
+          "liked": false,
+          "explicit": false,
+          "album": "After Hours",
+          "duration": "3:13"
+        },
+        {
+          "id": 8,
+          "title": "Know Your Worth",
+          "artist": "The Weeknd",
+          "liked": false,
+          "explicit": false,
+          "album": "After Hours",
+          "duration": "3:09"
+        },
+        {
+          "id": 9,
+          "title": "Blinding Ligths",
+          "artist": "The Weeknd",
+          "liked": true,
+          "explicit": false,
+          "album": "Blinding Ligths",
+          "duration": "2:26"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "src": "tophits.png",
+      "title": "Today's Top Hits",
+      "description": "Juice WRLD is on top of the Hottest 50!",
+      "artist": "Spotify",
+      "duration": "2h 39min",
+      "liked": true,
+      "songs": [
+        {
+          "id": 0,
+          "title": "Wishing Well",
+          "artist": "Juice WRLD",
+          "liked": false,
+          "explicit": true,
+          "album": "Legends Never Die",
+          "duration": "3:15"
+        },
+        {
+          "id": 1,
+          "title": "ROCKSTAR (feat. Roddy Ricch)",
+          "artist": "DaBaby, Roddy Ricch",
+          "liked": false,
+          "explicit": true,
+          "album": "BLAME IT ON BABY",
+          "duration": "3:02"
+        },
+        {
+          "id": 2,
+          "title": "Savege Love (Laxed - Sired Beat)",
+          "artist": "Jawsh 685, Jason Derulo",
+          "liked": false,
+          "explicit": false,
+          "album": "Savege Love (Laxed - Sired Beat)",
+          "duration": "2:51"
+        },
+        {
+          "id": 3,
+          "title": "Breaking Me",
+          "artist": "Topic, A7S",
+          "liked": false,
+          "explicit": false,
+          "album": "Breaking Me",
+          "duration": "2:47"
+        },
+        {
+          "id": 4,
+          "title": "Watermelon Sugar",
+          "artist": "Harry Styles",
+          "liked": false,
+          "explicit": false,
+          "album": "Fine Line",
+          "duration": "2:54"
+        },
+        {
+          "id": 5,
+          "title": "Break My Heart",
+          "artist": "Dua Lipa",
+          "liked": true,
+          "explicit": false,
+          "album": "Break My Heart",
+          "duration": "3:42"
+        },
+        {
+          "id": 6,
+          "title": "Party Girl",
+          "artist": "StaySolidRocky",
+          "liked": false,
+          "explicit": false,
+          "album": "Party Girl",
+          "duration": "2:28"
+        },
+        {
+          "id": 7,
+          "title": "Rain On Me (with Ariana Grande)",
+          "artist": "Lady Gaga, Ariana Grande",
+          "liked": false,
+          "explicit": false,
+          "album": "Rain On Me (with Ariana Grande)",
+          "duration": "3:02"
+        },
+        {
+          "id": 8,
+          "title": "Savege Remix(feat. Beyoncé)",
+          "artist": "Megan Thee Stallion, Beyoncé",
+          "liked": false,
+          "explicit": false,
+          "album": "Savege Remix(feat. Beyoncé)",
+          "duration": "4:02"
+        },
+        {
+          "id": 9,
+          "title": "Toosie Slide",
+          "artist": "Drake",
+          "liked": false,
+          "explicit": true,
+          "album": "Toosie Slide",
+          "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "src": "homeoffice.png",
+      "title": "Home Office",
+      "description": "Uma seleção good vibes pra você trabalhar de boa!",
+      "artist": "Spotify",
+      "duration": "5 hr 52 min",
+      "liked": true,
+      "songs": [
+        {
+          "id": 1,
+          "title": "Sitting, Waiting, Wishing",
+          "artist": "Jack Johnson",
+          "liked": false,
+          "explicit": false,
+          "album": "In Between Dreams",
+          "duration": "3:04"
+        },
+        {
+          "id": 2,
+          "title": "Memories",
+          "artist": "Maroon 5",
+          "liked": false,
+          "explicit": false,
+          "album": "Memories",
+          "duration": "3:09"
+        },
+        {
+          "id": 3,
+          "title": "death bed (coffee for yout head)",
+          "artist": "Powfu, beabadoobee",
+          "liked": false,
+          "explicit": false,
+          "album": "death bed (coffee for yout head)",
+          "duration": "2:53"
+        },
+        {
+          "id": 4,
+          "title": "ily (i love you baby) (feat. Emilee)",
+          "artist": "Surf Mesa",
+          "liked": false,
+          "explicit": false,
+          "album": "ily (i love you baby) (feat. Emilee)",
+          "duration": "2:57"
+        },
+        {
+          "id": 5,
+          "title": "No hay Nadie Más",
+          "artist": "Sebastian Yatra",
+          "liked": false,
+          "explicit": false,
+          "album": "MANTRA",
+          "duration": "3:20"
+        },
+        {
+          "id": 6,
+          "title": "Dancing With A Stranger (with Normani)",
+          "artist": "Sam Smith, Normani",
+          "liked": false,
+          "explicit": false,
+          "album": "Dancing With A Stranger (with Normani)",
+          "duration": "2:51"
+        },
+        {
+          "id": 7,
+          "title": "Slow Down",
+          "artist": "Maverick Sabre, Jorja Smith",
+          "liked": false,
+          "explicit": false,
+          "album": "When I Wake Up",
+          "duration": "3:31"
+        },
+        {
+          "id": 8,
+          "title": "Love Yourself",
+          "artist": "Justin Bieber",
+          "liked": false,
+          "explicit": false,
+          "album": "Purpose (Deluxe)",
+          "duration": "3:54"
+        },
+        {
+          "id": 9,
+          "title": "Free",
+          "artist": "Donavon Frankenreiter",
+          "liked": false,
+          "explicit": false,
+          "album": "Donavon Frankenreiter",
+          "duration": "2:29"
+        },
+        {
+          "id": 10,
+          "title": "Pipa Voada (feat. Emicida)",
+          "artist": "Rashid, Lukinhas",
+          "liked": false,
+          "explicit": false,
+          "album": "Tão Real",
+          "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "src": "guilty-pleasures.png",
+      "title": "Guilty Pleasures",
+      "description": "Embrace your secret favorites.",
+      "artist": "Spotify",
+      "duration": "6h 21min",
+      "liked": true,
+      "songs": [
+        {
+          "id": 0,
+          "title": "On A Roll",
+          "artist": "Ashley O",
+          "liked": false,
+          "explicit": false,
+          "album": "On A Roll",
+          "duration": "2:34"
+        },
+        {
+          "id": 1,
+          "title": "Baby",
+          "artist": "Justin Bieber, Ludacris",
+          "liked": false,
+          "explicit": false,
+          "album": "My World 2.0",
+          "duration": "3:34"
+        },
+        {
+          "id": 2,
+          "title": "Party In The U.S.A",
+          "artist": "Miley Cyrus",
+          "liked": false,
+          "explicit": false,
+          "album": "The Time Of Our Lives",
+          "duration": "3:19"
+        },
+        {
+          "id": 3,
+          "title": "Toxic",
+          "artist": "Britney Spears",
+          "liked": false,
+          "explicit": false,
+          "album": "Greatest Hits: My Prerogative",
+          "duration": "3:19"
+        },
+        {
+          "id": 4,
+          "title": "What Makes You Beautiful",
+          "artist": "One Direction",
+          "liked": false,
+          "explicit": false,
+          "album": "Up All Night",
+          "duration": "3:20"
+        },
+        {
+          "id": 5,
+          "title": "I Kissed A Girl",
+          "artist": "Katy Perry",
+          "liked": false,
+          "explicit": false,
+          "album": "One Of The Boys",
+          "duration": "3:00"
+        },
+        {
+          "id": 6,
+          "title": "Down",
+          "artist": "Jay Sean, Lil Wayne",
+          "liked": false,
+          "explicit": false,
+          "album": "Down",
+          "duration": "3:32"
+        },
+        {
+          "id": 7,
+          "title": "I'm Just A Kid",
+          "artist": "Simple Plan",
+          "liked": false,
+          "explicit": false,
+          "album": "No Pads, No Helmetes...Just Balls",
+          "duration": "3:18"
+        },
+        {
+          "id": 8,
+          "title": "I Want It That Way",
+          "artist": "Backstreet Boys",
+          "liked": false,
+          "explicit": false,
+          "album": "The Essential Backstreet Boys",
+          "duration": "3:33"
+        },
+        {
+          "id": 9,
+          "title": "Oops!...I Did It Again",
+          "artist": "Britney Spears",
+          "liked": false,
+          "explicit": false,
+          "album": "Oops!...I Did It Again",
+          "duration": "3:31"
+        }
+      ]
+    }
+  ]
+}
